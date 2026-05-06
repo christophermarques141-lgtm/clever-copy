@@ -1,1 +1,1 @@
-# clever-copy
+Helllo this is a copy of clever that is meant for educational purposes only😉
